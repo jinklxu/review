@@ -15,7 +15,7 @@
 
 <b> -----------------------free CS:GO list--------------------------- </b>
 <p> edgyncute - 4gn - сердечко - 9 lv - 34h </p>
-<p> edgyncutev2 - 4gn - децкий дуберкулезный каналъ - 13 lv - 54h </p>
+<p> edgyncutev2 - 4gn - децкий туберкулезный каналъ - 13 lv - 54h </p>
 <p> edgyncutev3 - 4gn - акулка из икеи - 11 lv - 37h </p>
 <p> edgyncutev4 - 4gn - shigoto no ato ni - 10 lv - 28h </p>
 <p> edgyncutev5 - 3gn - shigoto no ato ni - 12 lv - 61h </p>
