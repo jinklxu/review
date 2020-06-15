@@ -1,6 +1,6 @@
   <p> Hi everyone! This is my cs:go account information list.</p>
   <p> U can see my stats (rank, nickname, cs:go lvl, hours) </p>
-  <p> U can also find all accounts in y steam group with moder role and higher: </p>
+  <p> U can also find all accounts in my steam group with moder role and higher: </p>
   <p> http://steamcommunity.com/groups/edgyncute </p>
   <p> </p>
 <p> if u have any questions here are my contacts: </p> 
