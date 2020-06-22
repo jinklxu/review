@@ -8,23 +8,23 @@
 <p> jinklxu@gmail.com </p>
 <p> https://vk.com/shikixxgod </p>
 <p> </p>
-<b>---------------------------Main list-----------------------------</b>
+<b>---------------------------Prime list-----------------------------</b>
 <p> v**** - mg1 - elf - 5yrs acc - 2641h </p>
 <p> t**** -  mg2 - shigoto no ato ni - 2yrs acc - 348h </p>
 <b> -----------------------------------------------------------------</b>
 
-<b> -----------------------free CS:GO list--------------------------- </b>
+<b> -------------------------Non-prime list------------------------- </b>
 <p> edgyncute - 4gn - сердечко - 9 lv - 34h </p>
 <p> edgyncutev2 - 4gn - децкий туберкулезный каналъ - 13 lv - 54h </p>
 <p> edgyncutev3 - 4gn - акулка из икеи - 11 lv - 37h </p>
 <p> edgyncutev4 - 4gn - shigoto no ato ni - 10 lv - 28h </p>
-<p> edgyncutev5 - 3gn - shigoto no ato ni - 12 lv - 61h </p>
+<p> edgyncutev5 - 1gn - Senko - 12 lv - 103h </p>
 <p> edgyncutev6 - 4gn - shigoto no ato ni - 12 lv - 42h </p>
-<p> edgyncutev7 - 3gn - hao - 8 lv - 27h </p>
+<p> edgyncutev7 - 3gn - hao - 9 lv - 33h </p>
 <p> testhikki - 4gn - see - 11 lv - 67h </p>
-<p> mnetakradostno - 1gn -  mne tak radostno - 10 lv - 46h </p>
-<p> mnetakgrustno - norank - mne tak grustno - 3 lv - 4h </p>
-<p> cutetesterv3 - norank - sugar- 3 lv - 7h </p>
+<p> mnetakradostno - 2gn -  пьяный чайница - 10 lv - 55h </p>
+<p> mnetakgrustno - mg1 - mne tak grustno - 4 lv - 7h </p>
+<p> cutetesterv3 - 3gn - Sugar- 5 lv - 17h </p>
 <b> -----------------------------------------------------------------</b>
 
 <b> ------------------------------VAC list---------------------------</b>
@@ -38,4 +38,4 @@
 <p> t***5 - VAC cheat 15.12.2018 - 3h</p>
 <p> cutetesterv2 - VAC cheat 24.08.2019 - 5h </p>
 <b> -----------------------------------------------------------------</b>
-<p> <b> total hours = 4 861 </b> </p>
+<p> <b> total hours = 4 931 </b> </p>
