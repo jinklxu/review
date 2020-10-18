@@ -4,27 +4,30 @@
   <p> http://steamcommunity.com/groups/edgyncute </p>
   <p> </p>
 <p> if u have any questions here are my contacts: </p> 
-<p> Discord: Jinklzu#6888 </p>
+<p> Discord: shark_#1707 </p>
 <p> jinklxu@gmail.com </p>
 <p> https://vk.com/shikixxgod </p>
 <p> </p>
 <b>---------------------------Prime list-----------------------------</b>
-<p> v**** - mg1 - elf - 5yrs acc - 2641h </p>
-<p> t**** -  mg2 - shigoto no ato ni - 2yrs acc - 348h </p>
+<p> v**** - mge - elf - 5yrs acc - 2725h </p>
+<p> t**** -  mg2 - @... - 2yrs acc - 354h </p>
+<p> ev4 - mg2 - shark_ - 1yr acc - 125h </p>
+
+<p> ev2 - mg1 - shark_ - 1yr acc - 132h </p>
+<p> ev3 - mg2 - nums - 1yr acc - 106h </p>
+<p> ev5 - mg1 - nums - 1yr acc - 236h </p>
+<p> mrno - mg1 - nums - 1yr acc - 105h </p>
 <b> -----------------------------------------------------------------</b>
 
 <b> -------------------------Non-prime list------------------------- </b>
-<p> edgyncute - 4gn - сердечко - 9 lv - 34h </p>
-<p> edgyncutev2 - 4gn - децкий туберкулезный каналъ - 13 lv - 54h </p>
-<p> edgyncutev3 - 4gn - акулка из икеи - 11 lv - 37h </p>
-<p> edgyncutev4 - 4gn - shigoto no ato ni - 10 lv - 28h </p>
-<p> edgyncutev5 - 1gn - Senko - 12 lv - 103h </p>
-<p> edgyncutev6 - 4gn - shigoto no ato ni - 12 lv - 42h </p>
-<p> edgyncutev7 - 3gn - hao - 9 lv - 33h </p>
-<p> testhikki - 4gn - see - 11 lv - 67h </p>
-<p> mnetakradostno - 2gn -  пьяный чайница - 10 lv - 55h </p>
-<p> mnetakgrustno - mg1 - mne tak grustno - 4 lv - 7h </p>
-<p> cutetesterv3 - 3gn - Sugar- 5 lv - 17h </p>
+<p> e - outdated - yonhu? - 13 lvl - 53h </p>
+<p> ev6 - outdated - so? - 13 lvl - 43h </p>
+<p> ev7 - outdated - hao - 12 lvl - 56h </p>
+<p> testhikki - 4gn - shark_ - 19 lvl - 107h </p>
+<p> mgno - mg1 - mne tak grustno - 4 lv - 7h </p>
+<p> cv3 - 4gn - shark_ - 17 lvl - 77h </p>
+<p> teste - norank - yoshimura - 3lvl </p>
+<p> crgrl - norank - cryingrl - 2lvl - 9h </p>
 <b> -----------------------------------------------------------------</b>
 
 <b> ------------------------------VAC list---------------------------</b>
@@ -32,10 +35,10 @@
 <p> s***a - VAC changer 19.06.2018 - 21h </p>
 <p> r***u - VAC changer 19.06.2018 - 349h </p>
 <p> n***d - VAC changer 19.06.2018 - 914h </p>
-<p> cutetester VAC overwatch 19.08.2019 i have demos, write jinklxu@gmail.com for information - 6h </p>
+<p> cutetester VAC overwatch 19.08.2019 - 6h </p>
 <p> v***s - VAC cheat 23.04.2016 - 27h </p>
 <p> d***b - VAC cheat 20.06.2015 - 119h </p>
 <p> t***5 - VAC cheat 15.12.2018 - 3h</p>
 <p> cutetesterv2 - VAC cheat 24.08.2019 - 5h </p>
 <b> -----------------------------------------------------------------</b>
-<p> <b> total hours = 4 931 </b> </p>
+<p> <b> total hours = 5 621 </b> </p>
